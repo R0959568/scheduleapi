@@ -1,0 +1,39 @@
+{
+    "Schedule": [
+        {
+            "Id": 1,
+            "Day": "Monday",
+            "OpeningHours": "9:00 AM - 5:00 PM"
+        },
+        {
+            "Id": 2,
+            "Day": "Tuesday",
+            "OpeningHours": "9:00 AM - 5:00 PM"
+        },
+        {
+            "Id": 3,
+            "Day": "Wednesday",
+            "OpeningHours": "9:00 AM - 5:00 PM"
+        },
+        {
+            "Id": 4,
+            "Day": "Thursday",
+            "OpeningHours": "9:00 AM - 5:00 PM"
+        },
+        {
+            "Id": 5,
+            "Day": "Friday",
+            "OpeningHours": "9:00 AM - 5:00 PM"
+        },
+        {
+            "Id": 6,
+            "Day": "Saturday",
+            "OpeningHours": "10:00 AM - 4:00 PM"
+        },
+        {
+            "Id": 7,
+            "Day": "Sunday",
+            "OpeningHours": "Closed"
+        }
+    ]
+}
